@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
+        "WSP GUYS",
         "Welcome to our server! Enjoy your stay!",
         "Welcome aboard! Have fun exploring!"
       ]
@@ -54,7 +54,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 500
     }
   },
   "modules": {
