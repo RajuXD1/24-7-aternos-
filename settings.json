@@ -28,7 +28,7 @@
     },
     "chat-messages": {
       "enabled": true,
-      "repeat": true,
+      "repeat": false,
       "repeat-delay": 1000,
       "messages": [
         "WSP GUYS",
@@ -54,7 +54,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 300
+      "interval": 250
     }
   },
   "modules": {
